@@ -1,0 +1,10 @@
+.logoESEN {
+    background-image: url(../images/logo.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    }
+   
+ header {
+        background-image: url('../images/logo.png');
+        background-repeat: no-repeat;
+        }
